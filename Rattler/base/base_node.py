@@ -1,7 +1,7 @@
 from random import randrange #For generating object id numbers
 import copy
 
-class Node():
+class Node:
     """Base class for nodes.
 
     Attributes

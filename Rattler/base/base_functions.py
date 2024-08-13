@@ -104,7 +104,7 @@ class Source(FunctionVariable):
 
 
 
-class NodeFunction():
+class NodeFunction:
     """
     Associates FunctionVariable objects and the actual function to call for this node to each other.
 

@@ -4,7 +4,7 @@ import copy
 from . import CustomErrors
 
 
-class Edge():
+class Edge:
     """
     Connections between nodes.
 
@@ -41,7 +41,7 @@ class Edge():
         self.id = randrange(1, 9999999999)
 
 
-class Graph():
+class Graph:
     """
     The object to contain all internal information on a graph.
 
